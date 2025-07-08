@@ -1,10 +1,10 @@
 #control statements
 
-num = 0
+num = 1
 
-if num > 0:
+if num > 1:
     print("This number is positive")
-elif num == 0:
+elif num == 1:
     print("This number is zero")
 else:
     print("This number is negative")
